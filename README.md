@@ -1,3 +1,7 @@
+<p align="center">
+<img width="308" height="144" alt="Stacked RGB" src="https://github.com/user-attachments/assets/ab53dbef-c2f7-4000-b2ad-efb145c7550c" />
+</p>
+
 # 👋 Hi, I'm Michael Siegle
 
 Welcome to my GitHub profile! I’m a web developer passionate about creating interactive, user-friendly websites and exploring creative design solutions.  
